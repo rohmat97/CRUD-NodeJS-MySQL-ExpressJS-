@@ -1,0 +1,24 @@
+{
+  "name": "node-expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohmat97/Node-ExpressJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohmat97/Node-ExpressJS/issues"
+  },
+  "homepage": "https://github.com/rohmat97/Node-ExpressJS#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
